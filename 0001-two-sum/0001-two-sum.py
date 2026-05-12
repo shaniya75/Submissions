@@ -1,9 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        seen = {}
+        d={}
         for i, num in enumerate(nums):
-            complement = target - num
-            if complement in seen:
-                return [seen[complement], i]
-            seen[num] = i
+            if target-num in d:
+                return [d[target-num], i]
+            d[num]=i
+
         
