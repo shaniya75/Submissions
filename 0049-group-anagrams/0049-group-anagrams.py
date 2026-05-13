@@ -1,14 +1,12 @@
-
+from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        group = {}
-
-        for word in strs:
-            key = "".join(sorted(word))
-
-            if key in group:
-                group[key].append(word)
+        d=defaultdict(list)
+        for i in strs:
+            x="".join(sorted(i))
+            if x in d:
+                d[x].append(i)
             else:
-                group[key] = [word]
-
-        return list(group.values())
+                d[x]=[i]
+        return list(d.values())
+        
