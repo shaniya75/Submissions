@@ -68,6 +68,7 @@ Synced automatically
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shaniya75/Submissions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/shaniya75/Submissions/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/shaniya75/Submissions/tree/master/0319-bulb-switcher) |
 ## Brainteaser
