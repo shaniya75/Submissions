@@ -15,6 +15,7 @@ Synced automatically
 | [0347-top-k-frequent-elements](https://github.com/shaniya75/Submissions/tree/master/0347-top-k-frequent-elements) |
 | [1920-build-array-from-permutation](https://github.com/shaniya75/Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shaniya75/Submissions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shaniya75/Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Synced automatically
 | [0049-group-anagrams](https://github.com/shaniya75/Submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shaniya75/Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shaniya75/Submissions/tree/master/0242-valid-anagram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shaniya75/Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +95,5 @@ Synced automatically
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/shaniya75/Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shaniya75/Submissions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shaniya75/Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
