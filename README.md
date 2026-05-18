@@ -42,6 +42,7 @@ Synced automatically
 | [0049-group-anagrams](https://github.com/shaniya75/Submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shaniya75/Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shaniya75/Submissions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/shaniya75/Submissions/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shaniya75/Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
@@ -94,6 +95,7 @@ Synced automatically
 | ------- |
 | [0015-3sum](https://github.com/shaniya75/Submissions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shaniya75/Submissions/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/shaniya75/Submissions/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
