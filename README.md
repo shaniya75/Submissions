@@ -13,6 +13,7 @@ Synced automatically
 | [0217-contains-duplicate](https://github.com/shaniya75/Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shaniya75/Submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shaniya75/Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1929-concatenation-of-array](https://github.com/shaniya75/Submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,8 @@ Synced automatically
 | ------- |
 | [0015-3sum](https://github.com/shaniya75/Submissions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shaniya75/Submissions/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shaniya75/Submissions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
