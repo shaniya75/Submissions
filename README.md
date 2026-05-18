@@ -55,4 +55,12 @@ Synced automatically
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shaniya75/Submissions/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/shaniya75/Submissions/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/shaniya75/Submissions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
