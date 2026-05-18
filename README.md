@@ -8,6 +8,7 @@ Synced automatically
 | ------- |
 | [0001-two-sum](https://github.com/shaniya75/Submissions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shaniya75/Submissions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/shaniya75/Submissions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/shaniya75/Submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shaniya75/Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shaniya75/Submissions/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@ Synced automatically
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaniya75/Submissions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/shaniya75/Submissions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shaniya75/Submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shaniya75/Submissions/tree/master/0344-reverse-string) |
 ## Simulation
