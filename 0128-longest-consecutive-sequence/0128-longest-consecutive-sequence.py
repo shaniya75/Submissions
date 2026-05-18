@@ -9,6 +9,6 @@ class Solution:
                 while current in store:
                     current+=1
                     streak+=1
-                    res=max(res,streak)
+                res=max(res,streak)
         return res
         
