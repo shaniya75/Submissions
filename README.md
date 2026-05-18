@@ -13,6 +13,7 @@ Synced automatically
 | [0217-contains-duplicate](https://github.com/shaniya75/Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shaniya75/Submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shaniya75/Submissions/tree/master/0347-top-k-frequent-elements) |
+| [1920-build-array-from-permutation](https://github.com/shaniya75/Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shaniya75/Submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -90,5 +91,6 @@ Synced automatically
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/shaniya75/Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shaniya75/Submissions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
