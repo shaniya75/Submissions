@@ -58,9 +58,18 @@ Synced automatically
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shaniya75/Submissions/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/shaniya75/Submissions/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/shaniya75/Submissions/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shaniya75/Submissions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shaniya75/Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
